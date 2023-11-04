@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Aryannpatell
-- 🌱 I am currently studing cse(Iot) in SRMIST , ktr.
-- 👀 I’m interested in Robotics , WebDEV and AIML stuff.
-- 💞️ I’m looking to collaborate on an e-commerce website project.
-- 📫 you can reach me on my INSTAGRAM ID : aryanpatel.223
-
-<!---
-Aryannpatell/Aryannpatell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a project on line following robot made using Arduino uno , 2 ir sensors and some basic components.
+i am hereby attaching the code i used and the graphical representation of the components and their attachments.
